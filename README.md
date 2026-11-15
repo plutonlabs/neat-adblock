@@ -2,7 +2,7 @@
 
 A small C ABI (`neat_adblock.dll`) around [adblock-rust](https://github.com/brave/adblock-rust)
 for NEAT Browser (WinUI 3 + WebView2). It loads a
-[neat-filters](https://github.com/neatbrowser/neat-filters) release and answers:
+[neat-filters](https://github.com/plutonlabs/neat-filters) release and answers:
 
 - should this network request be blocked, redirected, or rewritten?
 - should this popup (new window) be blocked?
